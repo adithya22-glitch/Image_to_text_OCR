@@ -70,6 +70,8 @@ pillow==11.2.1
 
 4. Text will appear in a new window with an option to save it.
 
+5. Download 'image_to_text.exe' from the releases tab. 
+
 ---
 
 ## Notes
