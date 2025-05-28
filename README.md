@@ -91,7 +91,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 Author
 
-Adithya M. VaramballyBerlin, Germanyadithya.varambally22@gmail.com
+Adithya M. Varambally, Berlin, Germany
 
 ---
 
