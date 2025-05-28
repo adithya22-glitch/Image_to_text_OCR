@@ -70,7 +70,9 @@ pillow==11.2.1
 
 4. Text will appear in a new window with an option to save it.
 
-5. Download 'image_to_text.exe' from the releases tab. 
+5. Download 'image_to_text.exe' from the releases tab. For those who aren’t familiar with using GitHub, you can directly download the .exe file from this link and run it without any setup:
+
+**https://github.com/adithya22-glitch/Image_to_text_OCR/releases/download/v1.0.0/image_to_text.exe**
 
 ---
 
