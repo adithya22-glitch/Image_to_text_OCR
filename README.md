@@ -70,6 +70,10 @@ pillow==11.2.1
 
 4. Text will appear in a new window with an option to save it.
 
+5. Download 'image_to_text.exe' from the releases tab. For those who aren’t familiar with using GitHub, you can directly download the .exe file from this link and run it without any setup:
+
+**https://github.com/adithya22-glitch/Image_to_text_OCR/releases/download/v1.0.0/image_to_text.exe**
+
 ---
 
 ## Notes
@@ -78,8 +82,9 @@ pillow==11.2.1
 * Tesseract path is auto-set from the local `bin/` folder. No installation required.
 * Works only on Windows.
 * Its advisable to run  `tesseract.exe` file  with the `bin` folder present.
-* If you want the extracted text as a '.txt' file, please click on 'yes' on 'Save Output' window that pops up. The '.txt' file will be saved in the same directory as the 'image_to_text.exe' or 'image_to_text.py' file will be saved in.
-![image](https://github.com/user-attachments/assets/c3238b60-5c7c-4e2b-90a1-fe5166347d43)
+* If you want the extracted text to be stored in a '.txt' file, you can click on 'yes' on this 'Save Output' window. the '.txt' file will be saved in the same directory the 'image_to_text.exe' or 'image_to_text.py' file will be run on.
+  ![image](https://github.com/user-attachments/assets/b17588c9-2514-4869-a12e-fcd4e8c3cb4b)
+
 
 ---
 
@@ -91,7 +96,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 Author
 
-Adithya M. VaramballyBerlin, Germanyadithya.varambally22@gmail.com
+Adithya M. Varambally, Berlin, Germany
 
 ---
 
