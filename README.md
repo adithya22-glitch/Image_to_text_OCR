@@ -78,6 +78,8 @@ pillow==11.2.1
 * Tesseract path is auto-set from the local `bin/` folder. No installation required.
 * Works only on Windows.
 * Its advisable to run  `tesseract.exe` file  with the `bin` folder present.
+* If you want the extracted text as a '.txt' file, please click on 'yes' on 'Save Output' window that pops up. The '.txt' file will be saved in the same directory as the 'image_to_text.exe' or 'image_to_text.py' file will be saved in.
+![image](https://github.com/user-attachments/assets/c3238b60-5c7c-4e2b-90a1-fe5166347d43)
 
 ---
 
